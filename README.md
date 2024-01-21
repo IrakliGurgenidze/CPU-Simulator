@@ -1,5 +1,5 @@
 # osproject
-In collaboration with GDauterman.
+In collaboration with GDauterman,
 
 A high-level simulation of a modern operating system in C++, focusing on assessing and documenting the efficiency of various CPU process scheduling algorithms under diverse operating conditions. 
 
