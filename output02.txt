@@ -1,0 +1,4 @@
+gay
+Process A (arrival time 9 ms) 16 CPU bursts (tau 100ms)
+
+time 0ms: Simulator started for FCFS [Q empty]

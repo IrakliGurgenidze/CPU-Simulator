@@ -1,0 +1,9 @@
+get arguments
+loop through each scheduling algorithm
+    define each process and insert them into "not arrived"
+    while loop until completed processes reaches n
+        run running 
+        possibly context switch from running to waiting
+        io bursts
+        arrivals
+        context switch from ready to running
